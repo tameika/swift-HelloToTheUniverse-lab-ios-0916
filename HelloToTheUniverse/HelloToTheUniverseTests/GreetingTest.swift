@@ -30,3 +30,4 @@ class GreetingTest: QuickSpec {
         }
     }
 }
+
